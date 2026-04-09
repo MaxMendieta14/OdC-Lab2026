@@ -1,2 +1,3 @@
 # OdC-Lab2026
-Vivado
+Laboratorio de Organización del Computador
+Proyecto con Vivado
